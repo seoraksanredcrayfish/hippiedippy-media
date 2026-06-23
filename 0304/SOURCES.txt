@@ -1,0 +1,32 @@
+# HIPPIEDIPPY 0304 디테일 — 비디오 소스 (25개)
+# 출처 Drive 폴더: 0304 디테일 (id 1Mh2e3iZJyF_Kdo6BqPz43cPoEMcR4-X4, owner ss29ss99@gmail.com, info@bergwerkseoul.com 공유)
+# 다운로드: info@bergwerkseoul.com OAuth, 2026-06-23
+# 형식: 파일명 | bytes | Drive파일ID | Drive보기URL | (GitHub raw URL은 푸시 후 추가)
+#
+# ※ hosted_url 칸은 hippiedippy-media 레포 푸시 후 채움 (상세페이지 삽입용)
+
+IMG_6497.mov	9770569	12I1lUYFNNPXabwcexNLRSXym9usRPL0_	https://drive.google.com/file/d/12I1lUYFNNPXabwcexNLRSXym9usRPL0_/view	hosted_url=
+IMG_4779.mov	14078970	16f1JxbNsdWH9QMjQQmi4rqDGOrmQBih6	https://drive.google.com/file/d/16f1JxbNsdWH9QMjQQmi4rqDGOrmQBih6/view	hosted_url=
+IMG_5363.mov	9972921	1lSZHW_MSx0n9mNYr0vlUk0MSvKOZxpOD	https://drive.google.com/file/d/1lSZHW_MSx0n9mNYr0vlUk0MSvKOZxpOD/view	hosted_url=
+IMG_7894.mov	12828126	1Iwv2rRenhFq5v5RdgtEJYKg5sUjfHRsE	https://drive.google.com/file/d/1Iwv2rRenhFq5v5RdgtEJYKg5sUjfHRsE/view	hosted_url=
+IMG_3715.mov	6900120	1i74kP8wr6DclRwguGiJ6AJITyQ4I6WtP	https://drive.google.com/file/d/1i74kP8wr6DclRwguGiJ6AJITyQ4I6WtP/view	hosted_url=
+IMG_7087.mov	6023665	1YBbMqNIPvYBTgoHu11qdoEDqCr0ZiJ5w	https://drive.google.com/file/d/1YBbMqNIPvYBTgoHu11qdoEDqCr0ZiJ5w/view	hosted_url=
+IMG_3869.mov	8397069	1cYBxQjlRRYUIKKY-_CHW5OJtSQD6E2b3	https://drive.google.com/file/d/1cYBxQjlRRYUIKKY-_CHW5OJtSQD6E2b3/view	hosted_url=
+IMG_5516.mov	5317166	1i9vvOHRwG-dPDRhPYkNEdYR1bU6sXchc	https://drive.google.com/file/d/1i9vvOHRwG-dPDRhPYkNEdYR1bU6sXchc/view	hosted_url=
+IMG_7788.mov	7233844	1KnZS222B-Y6SfVj4lUutz4PewEjDrNKY	https://drive.google.com/file/d/1KnZS222B-Y6SfVj4lUutz4PewEjDrNKY/view	hosted_url=
+IMG_3654.mov	6096618	1pi4ysVBWvMbKZD52f59J7d3aKxHgVYiE	https://drive.google.com/file/d/1pi4ysVBWvMbKZD52f59J7d3aKxHgVYiE/view	hosted_url=
+IMG_4411.mov	9478483	1r0gdOemPeflQ6Sm7f9GTr3UVEO3-V3-b	https://drive.google.com/file/d/1r0gdOemPeflQ6Sm7f9GTr3UVEO3-V3-b/view	hosted_url=
+IMG_3481.mov	6125026	1oGStpW6wX5Te8Q7kZFGQutblEYoLjQIT	https://drive.google.com/file/d/1oGStpW6wX5Te8Q7kZFGQutblEYoLjQIT/view	hosted_url=
+IMG_5057.mov	9150136	1LiHTDg83xAydXtSyT6l29SoIKRc71-k3	https://drive.google.com/file/d/1LiHTDg83xAydXtSyT6l29SoIKRc71-k3/view	hosted_url=
+IMG_7524.mov	10944001	1KcwlT-ZcitKxQy0MPWuz4Jx8vj7YM2QU	https://drive.google.com/file/d/1KcwlT-ZcitKxQy0MPWuz4Jx8vj7YM2QU/view	hosted_url=
+IMG_6064.mov	8669551	1ApQ8REMoMZFUeu6MlDv5rH_tMGQc_8J3	https://drive.google.com/file/d/1ApQ8REMoMZFUeu6MlDv5rH_tMGQc_8J3/view	hosted_url=
+IMG_4781.mov	22191168	1CQM9ibiYZs9wWwAUwTgASUl9eXkYn0CD	https://drive.google.com/file/d/1CQM9ibiYZs9wWwAUwTgASUl9eXkYn0CD/view	hosted_url=
+IMG_5413.mov	7904752	1dCxQxtkGxunTZlkEp4GDURGF9gp9UBAp	https://drive.google.com/file/d/1dCxQxtkGxunTZlkEp4GDURGF9gp9UBAp/view	hosted_url=
+IMG_6923.mov	7324242	1L-fhfIPUzQSCkxWgNwZZ5ML_IQHcGWyy	https://drive.google.com/file/d/1L-fhfIPUzQSCkxWgNwZZ5ML_IQHcGWyy/view	hosted_url=
+IMG_5900.mov	10176621	12DZINSW8s9RZksUH4bPpbkTyhZZo8jZP	https://drive.google.com/file/d/12DZINSW8s9RZksUH4bPpbkTyhZZo8jZP/view	hosted_url=
+IMG_4302.mov	15403096	1E0l277Q52b-gy0sszT0ybZfg4xsnAC63	https://drive.google.com/file/d/1E0l277Q52b-gy0sszT0ybZfg4xsnAC63/view	hosted_url=
+IMG_4846.mov	15436474	122ZxOoi5teIU9_7vEzZoL3YoCh55334y	https://drive.google.com/file/d/122ZxOoi5teIU9_7vEzZoL3YoCh55334y/view	hosted_url=
+IMG_6392.mov	12671944	1_hM23PBRzrDjGmZjU63eHZG5-39TKi-q	https://drive.google.com/file/d/1_hM23PBRzrDjGmZjU63eHZG5-39TKi-q/view	hosted_url=
+IMG_7895.mov	8460907	1dYFnZRfWgwU-3uZ9FH6qA6-ugJ1mBx8L	https://drive.google.com/file/d/1dYFnZRfWgwU-3uZ9FH6qA6-ugJ1mBx8L/view	hosted_url=
+IMG_3594.mov	17038913	1umniufR-iCS0gaBwRYj67lOUbpza3JZC	https://drive.google.com/file/d/1umniufR-iCS0gaBwRYj67lOUbpza3JZC/view	hosted_url=
+IMG_7057.mov	5962027	1rG9nsPhRgLHErpbo2PsbrYzGJYD1koBJ	https://drive.google.com/file/d/1rG9nsPhRgLHErpbo2PsbrYzGJYD1koBJ/view	hosted_url=
